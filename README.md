@@ -4,7 +4,7 @@ Simple battleship write in cpp for windows console
 
 ## Author
 
-* **Jessica Romani** 
+* **Jessica Romanini** 
 
 ## Contributor
 
